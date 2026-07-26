@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://labibrafi08.github.io/khondaker-labib-portfolio/sitemap.xml
