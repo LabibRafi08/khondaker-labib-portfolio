@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="t d">
+<title id="t">Smart grid machine learning research visual</title><desc id="d">Power generation, transmission, homes and data nodes connected through a smart grid.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#131a21"/><stop offset="1" stop-color="#07090c"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<g stroke="#2b3944" stroke-width="4" fill="none"><path d="M160 420H1040"/><path d="M600 170V650"/><path d="M290 255L910 545"/><path d="M290 545L910 255"/></g>
+<g fill="#ff7a3d" filter="url(#glow)"><circle cx="600" cy="400" r="34"/><circle cx="160" cy="420" r="18"/><circle cx="1040" cy="420" r="18"/><circle cx="600" cy="170" r="18"/><circle cx="600" cy="650" r="18"/><circle cx="290" cy="255" r="16"/><circle cx="910" cy="545" r="16"/><circle cx="290" cy="545" r="16"/><circle cx="910" cy="255" r="16"/></g>
+<g fill="#edf3f6" font-family="Arial, sans-serif" font-size="28" font-weight="700"><text x="510" y="390">ML + DL</text><text x="514" y="425">SMART GRID</text></g>
+<g fill="#9facb4" font-family="Arial, sans-serif" font-size="22"><text x="80" y="465">Generation</text><text x="980" y="465">Demand</text><text x="530" y="125">Forecasting</text><text x="525" y="700">Security</text><text x="175" y="235">Storage</text><text x="905" y="590">Markets</text><text x="190" y="590">Sensors</text><text x="900" y="235">Control</text></g>
+</svg>

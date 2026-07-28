@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="t d">
+<title id="t">EV charging location research visual</title><desc id="d">A stylised city network with candidate electric vehicle charging points and priority routes.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101820"/><stop offset="1" stop-color="#07090c"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<g stroke="#27343e" stroke-width="18" fill="none" stroke-linecap="round"><path d="M100 150C280 220 340 350 540 380S860 310 1100 180"/><path d="M110 650C330 590 390 480 580 470S880 540 1090 650"/><path d="M260 80C300 260 240 520 320 720"/><path d="M760 70C690 270 770 510 720 730"/></g>
+<g stroke="#ff7a3d" stroke-width="8" fill="none" stroke-dasharray="14 18"><path d="M150 610C330 530 450 450 620 430S900 520 1050 620"/></g>
+<g fill="#ff7a3d" filter="url(#glow)"><circle cx="250" cy="560" r="24"/><circle cx="530" cy="445" r="28"/><circle cx="790" cy="500" r="24"/><circle cx="980" cy="595" r="22"/></g>
+<g fill="#edf3f6" font-family="Arial, sans-serif" font-size="26" font-weight="700"><text x="455" y="365">EV CHARGING</text><text x="474" y="400">LOCATION STUDY</text></g>
+<g fill="#a9b5bc" font-family="Arial, sans-serif" font-size="22"><text x="175" y="530">Candidate A</text><text x="460" y="505">Priority zone</text><text x="740" y="560">Candidate C</text><text x="930" y="650">Candidate D</text><text x="420" y="250">Gravity model + AHP</text></g>
+</svg>

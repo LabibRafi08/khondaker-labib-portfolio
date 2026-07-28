@@ -1,0 +1,23 @@
+KHONDAKER LABIB PORTFOLIO V2 — SIMPLE STATIC SETUP
+
+No Python is required.
+
+LOCAL PREVIEW
+1. Double-click preview.bat
+2. The website opens at http://localhost:8000
+3. Keep the black PowerShell window open while previewing
+4. Press Ctrl+C in that window to stop
+
+GITHUB
+1. Work on the website-v2 branch
+2. Copy every file in this folder into the repository root
+3. Commit and push website-v2
+4. Review locally with preview.bat
+5. When approved, merge website-v2 into main
+6. GitHub Pages deploys automatically from main
+
+IMPORTANT
+- Never delete the hidden .git folder
+- Do not run build.py
+- Do not install Python for this package
+- index.html must be directly in the repository root
