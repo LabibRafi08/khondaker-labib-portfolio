@@ -1,0 +1,1 @@
+window.PORTFOLIO_MUSIC = {"folder": "https://drive.google.com/drive/folders/1qw7-9Or7e8DDqRwEgaO69zn1u7hNWOAk?usp=sharing", "tracks": [{"title": "Ambient Focus", "artist": "Portfolio Soundscape", "credit": "Background ambience for the portfolio", "source": "assets/audio/ambient-focus.wav"}]};
